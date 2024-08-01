@@ -8,7 +8,7 @@ At day, I develop applications for iOS, but at night...
 - long time ago I have started with C++, yet currently this skills has got rusty, I you know what I mean
 - strive for quality software, dedicate a lot of time on how to build one and teach newcomers
 - develop various tools and services I wish to have and going to use, some of currently public, yet still in progress are:
-  - https://everyday.keytasks.app : frees head of everyday plans; coming with more task management tools soon...
+  - https://keytasks.app : focus control with limited tasks lists
   - https://yoate.app : helps to build weekly meal plans; early stage development, yet I am already using it
   - more to come!
  
