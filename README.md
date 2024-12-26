@@ -9,7 +9,7 @@ At day, I develop applications for iOS, but at night...
 - strive for quality software, dedicate a lot of time on how to build one and teach newcomers
 - develop various tools and services I wish to have and going to use, some of currently public, yet still in progress are:
   - https://keytasks.app : focus control with limited tasks lists
-  - https://yoate.app : helps to build weekly meal plans; early stage development, yet I am already using it
+  - https://crooge.app : personal finances tracker
   - more to come!
  
 *Currently working on API tools to improve their desing, testing and developers collaboration.*
